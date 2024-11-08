@@ -10,12 +10,12 @@
     padding-top: 100px;
   }
   /* section2 */
+  .section2_section {
+    overflow-x: scroll;
+  }
   /* footer */
   footer {
     padding-inline: 64px;
-  }
-  .section2_section {
-    overflow-x: scroll;
   }
 }
 @media (max-width: 881px) {
