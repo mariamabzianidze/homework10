@@ -132,21 +132,21 @@ header {
   line-height: 27px;
   color: #dee2eb;
 }
-.section2_button{
+.section2_button {
   width: 27px;
   height: 27px;
-  border: solid 1px #DEE2EB;
+  border: solid 1px #dee2eb;
   border-radius: 8px;
-  background-color: #C46A2B;
+  background-color: #c46a2b;
 }
-.section2_text{
+.section2_text {
   display: flex;
-    justify-content: space-between;
-    align-items: center;
+  justify-content: space-between;
+  align-items: center;
 }
 .fa-cart-shopping {
   font-size: 11px;
-  color: #DEE2EB;
+  color: #dee2eb;
 }
 /* footer */
 footer {
